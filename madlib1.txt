@@ -1,9 +1,9 @@
-Pizza was invented by a __adjective __nationality
-chef named __name . To make a pizza, you need
-to take a lump of __noun , and make a thin, round
-__adjective __noun . Then you cover it with
-__adjective sauce, __adjective cheese, and fresh
-chopped __plural_noun . Next you have to bake it in a very
-hot __noun . When it is done, cut it into __number
-__shape . Some kids like __food pizza. If I could, I
-would eat pizza __number times a day!
+Pizza was invented by a {adjective} {nationality}
+chef named {name}. To make a pizza, you need
+to take a lump of {noun}, and make a thin, round
+{adjective} {noun}. Then you cover it with
+{adjective} sauce, {adjective} cheese, and fresh
+chopped {plural noun}. Next you have to bake it in a very
+hot {noun}. When it is done, cut it into {number}
+{shape}. Some kids like {food} pizza. If I could, I
+would eat pizza {number} times a day!
